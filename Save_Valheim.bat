@@ -1,0 +1,2 @@
+if not exist "C:\Users\%username%\Documents\Valheim_backup\" mkdir C:\Users\%username%\Documents\Valheim_backup\
+xcopy /s /Y C:\Users\%username%\AppData\LocalLow\IronGate\Valheim\*.* C:\Users\%username%\Documents\Valheim_backup\
