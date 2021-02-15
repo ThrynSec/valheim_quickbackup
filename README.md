@@ -16,6 +16,8 @@ ________________________________________________________________________________
 How to use :
 
 1- Download the bat file [by clicking here or right-click "Save As" the .bat file on github](https://github.com/ThrynSec/valheim_quickbackup/blob/main/Save_Valheim.bat)
+
 2- Double click on Save_Valheim.bat
+
 3- Your save folder is now copied to C:/(Username)/Documents/Valheim_Backup/
 
